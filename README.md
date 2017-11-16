@@ -1,15 +1,15 @@
-= fhirpy
+# fhirpy
 
 An exploration of the Python **fhirclient** package (a.k.a. the Python SMART on FHIR client).
 
-== Overview
+## Overview
 
 See also:
 
 https://smart-on-fhir.github.io/client-py  
 https://github.com/smart-on-fhir/client-py
 
-== Setup
+## Setup
 
 Clone the Git repository.
 
